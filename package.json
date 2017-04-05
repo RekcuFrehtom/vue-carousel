@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hilongjw/vue-slide.git"
+    "url": "git@github.com:RekcuFrehtom/vue-carousel.git"
   },
   "keywords": [
     "vue",
@@ -16,10 +16,5 @@
     "vue slide",
     "vue component"
   ],
-  "author": "Awe",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hilongjw/vue-slide/issues"
-  },
-  "homepage": "https://github.com/hilongjw/vue-slide#readme"
+  "author": "RekcuFrehtom"
 }
